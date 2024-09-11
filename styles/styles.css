@@ -1,0 +1,37 @@
+.main-box {
+    height: 100px;
+    width:100%;
+    margin: 10px;
+    border-radius:10px;
+    background-color: #000000
+    }
+#pink-box {
+    background-color: #ffa8ee
+}
+#orange-box {
+    background-color: #ffcca8
+}
+#yellow-box {
+    background-color: #fff6a8
+}
+#green-box {
+    background-color: #b9ffa8
+}
+#lblue-box {
+    background-color: #a8fffc
+}
+#dblue-box {
+    background-color: #a8d6ff
+}
+#purple-box {
+    background-color: #aba8ff
+}
+#magenta-box {
+    background-color: #e6a8ff
+}
+#pink-box-two {
+    background-color: #ffa8ee
+}
+#orange-box-two {
+    background-color: #ffcca8
+}
